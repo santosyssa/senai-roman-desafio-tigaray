@@ -14,7 +14,7 @@ using Senai.Roman.WebApi.ViewModels;
 namespace Senai.Roman.WebApi.Controllers
 {
     [Route("api/[controller]")]
-    [Produces("apllication/json")]
+    [Produces("application/json")]
     [ApiController]
     public class LoginController : ControllerBase
     {
